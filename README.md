@@ -143,8 +143,7 @@ AfricompliUK/
 │   ├── governance-and-disclaimer.md ← AI governance, legal disclaimers, GDPR
 │   └── images/
 │       ├── user-journey.svg         ← Visual user journey flowchart
-│       ├── logo.svg                 ← AfriCompli UK logo
-│       └── hero.png                 ← Platform hero screenshot
+│       └── logo variants            ← Platform hero screenshot
 ├── design/
 │   ├── screenshots/                 ← MVP screen exports
 │   └── wireframes/                  ← AfriLaw and SaaS wireframe exports
