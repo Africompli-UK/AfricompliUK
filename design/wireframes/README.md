@@ -22,12 +22,3 @@ This folder contains AfriCompli UK MVP wireframe exports.
 | `afrilaw-03-reminders.png` | Compliance alerts by priority level |
 | `afrilaw-04-templates.png` | Template library with premium tier indicator |
 
-## Notes
-
-- Wireframes are currently in ASCII/text format in the source files under `/Africompli Info/` in the internal project folder
-- Figma prototype exports to be added here once Figma design is finalised
-- PNG/SVG exports from Figma should follow the naming convention above
-
-## Status
-
-> Wireframe exports pending Figma completion. See [docs/mvp-scope.md](../../docs/mvp-scope.md) for the full screen evidence index (B2-E1 through B2-E14).
